@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-/build/
-/nbproject/
-*.xml
-*.mf
 /target/
-=======
-/target/
->>>>>>> branch 'master' of https://github.com/theofilis/DataStructure.git
